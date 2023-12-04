@@ -20,15 +20,16 @@
   <li> JavaScript: The primary programming language used for this project.</li>
 </ul>
 
+
 <h2> Installation </h2>
-# Clone the repository
-git clone https://github.com/your-username/blogging-api.git
+<ol>
+  <li> Clone the repository: git clone https://github.com/your-username/blogging-api.git</li>
+  <li> Navigate to the project directory: cd blogging-api</li>
+  <li> Install dependencies: npm install</li>
+  <li> Start the server: npm start</li>
+</ol>
 
-# Navigate to the project directory
-cd blogging-api
 
-# Install dependencies
-npm install
 
 
 <h2> License </h2>
