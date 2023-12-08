@@ -29,7 +29,8 @@
 </ol>
 
 
-
+<h3> Preview </h3>
+<a href="https://imgur.com/Tvgy91Z"><img src="https://i.imgur.com/Tvgy91Z.png" title="source: imgur.com" /></a>
 
 <h2> License </h2>
 <p> This project is licensed under the MIT License - see the<code> LICENSE  </code> file for details.</p>
